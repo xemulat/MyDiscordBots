@@ -10,4 +10,4 @@ TendieBot2000 - Anti-Swearing bot [Add here](https://maglit.me/tendiebot)
 Coded By: xemulated#2622
 
 
-![pshiGqB5km](https://user-images.githubusercontent.com/98595166/184202874-c22db5aa-b96d-4a65-b061-fb98517e48b1.png)
+![pshiGqB5km](https://user-images.githubusercontent.com/98595166/184204383-05116ac0-4651-4650-87a6-f8c7e7c42a19.png)
